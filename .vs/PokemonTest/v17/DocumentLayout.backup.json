@@ -3,8 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\RichterPatrick\\source\\repos\\PokemonTest\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{311FE6EF-A950-42EB-A8B4-69A52823BF31}|PokemonTest\\PokemonTest.csproj|c:\\users\\richterpatrick\\source\\repos\\pokemontest\\pokemontest\\kampfsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311FE6EF-A950-42EB-A8B4-69A52823BF31}|PokemonTest\\PokemonTest.csproj|solutionrelative:pokemontest\\kampfsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{311FE6EF-A950-42EB-A8B4-69A52823BF31}|PokemonTest\\PokemonTest.csproj|c:\\users\\richterpatrick\\source\\repos\\pokemontest\\pokemontest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{311FE6EF-A950-42EB-A8B4-69A52823BF31}|PokemonTest\\PokemonTest.csproj|solutionrelative:pokemontest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311FE6EF-A950-42EB-A8B4-69A52823BF31}|PokemonTest\\PokemonTest.csproj|c:\\users\\richterpatrick\\source\\repos\\pokemontest\\pokemontest\\arena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311FE6EF-A950-42EB-A8B4-69A52823BF31}|PokemonTest\\PokemonTest.csproj|solutionrelative:pokemontest\\arena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311FE6EF-A950-42EB-A8B4-69A52823BF31}|PokemonTest\\PokemonTest.csproj|c:\\users\\richterpatrick\\source\\repos\\pokemontest\\pokemontest\\route1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311FE6EF-A950-42EB-A8B4-69A52823BF31}|PokemonTest\\PokemonTest.csproj|solutionrelative:pokemontest\\route1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311FE6EF-A950-42EB-A8B4-69A52823BF31}|PokemonTest\\PokemonTest.csproj|c:\\users\\richterpatrick\\source\\repos\\pokemontest\\pokemontest\\teammanagenment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311FE6EF-A950-42EB-A8B4-69A52823BF31}|PokemonTest\\PokemonTest.csproj|solutionrelative:pokemontest\\teammanagenment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311FE6EF-A950-42EB-A8B4-69A52823BF31}|PokemonTest\\PokemonTest.csproj|c:\\users\\richterpatrick\\source\\repos\\pokemontest\\pokemontest\\tasche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311FE6EF-A950-42EB-A8B4-69A52823BF31}|PokemonTest\\PokemonTest.csproj|solutionrelative:pokemontest\\tasche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311FE6EF-A950-42EB-A8B4-69A52823BF31}|PokemonTest\\PokemonTest.csproj|c:\\users\\richterpatrick\\source\\repos\\pokemontest\\pokemontest\\classpokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311FE6EF-A950-42EB-A8B4-69A52823BF31}|PokemonTest\\PokemonTest.csproj|solutionrelative:pokemontest\\classpokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311FE6EF-A950-42EB-A8B4-69A52823BF31}|PokemonTest\\PokemonTest.csproj|c:\\users\\richterpatrick\\source\\repos\\pokemontest\\pokemontest\\spielstand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311FE6EF-A950-42EB-A8B4-69A52823BF31}|PokemonTest\\PokemonTest.csproj|solutionrelative:pokemontest\\spielstand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311FE6EF-A950-42EB-A8B4-69A52823BF31}|PokemonTest\\PokemonTest.csproj|c:\\users\\richterpatrick\\source\\repos\\pokemontest\\pokemontest\\erstestadt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311FE6EF-A950-42EB-A8B4-69A52823BF31}|PokemonTest\\PokemonTest.csproj|solutionrelative:pokemontest\\erstestadt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311FE6EF-A950-42EB-A8B4-69A52823BF31}|PokemonTest\\PokemonTest.csproj|c:\\users\\richterpatrick\\source\\repos\\pokemontest\\pokemontest\\attacke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311FE6EF-A950-42EB-A8B4-69A52823BF31}|PokemonTest\\PokemonTest.csproj|solutionrelative:pokemontest\\attacke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,27 +50,152 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\RichterPatrick\\source\\repos\\PokemonTest\\PokemonTest\\Program.cs",
               "RelativeDocumentMoniker": "PokemonTest\\Program.cs",
-              "ToolTip": "C:\\Users\\RichterPatrick\\source\\repos\\PokemonTest\\PokemonTest\\Program.cs*",
-              "RelativeToolTip": "PokemonTest\\Program.cs*",
+              "ToolTip": "C:\\Users\\RichterPatrick\\source\\repos\\PokemonTest\\PokemonTest\\Program.cs",
+              "RelativeToolTip": "PokemonTest\\Program.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAUwFcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:01:06.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClassPokemon.cs",
+              "DocumentMoniker": "C:\\Users\\RichterPatrick\\source\\repos\\PokemonTest\\PokemonTest\\ClassPokemon.cs",
+              "RelativeDocumentMoniker": "PokemonTest\\ClassPokemon.cs",
+              "ToolTip": "C:\\Users\\RichterPatrick\\source\\repos\\PokemonTest\\PokemonTest\\ClassPokemon.cs",
+              "RelativeToolTip": "PokemonTest\\ClassPokemon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T12:29:40.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tasche.cs",
+              "DocumentMoniker": "C:\\Users\\RichterPatrick\\source\\repos\\PokemonTest\\PokemonTest\\Tasche.cs",
+              "RelativeDocumentMoniker": "PokemonTest\\Tasche.cs",
+              "ToolTip": "C:\\Users\\RichterPatrick\\source\\repos\\PokemonTest\\PokemonTest\\Tasche.cs",
+              "RelativeToolTip": "PokemonTest\\Tasche.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:54:19.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Attacke.cs",
+              "DocumentMoniker": "C:\\Users\\RichterPatrick\\source\\repos\\PokemonTest\\PokemonTest\\Attacke.cs",
+              "RelativeDocumentMoniker": "PokemonTest\\Attacke.cs",
+              "ToolTip": "C:\\Users\\RichterPatrick\\source\\repos\\PokemonTest\\PokemonTest\\Attacke.cs",
+              "RelativeToolTip": "PokemonTest\\Attacke.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:36:41.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kampfsystem.cs",
+              "DocumentMoniker": "C:\\Users\\RichterPatrick\\source\\repos\\PokemonTest\\PokemonTest\\Kampfsystem.cs",
+              "RelativeDocumentMoniker": "PokemonTest\\Kampfsystem.cs",
+              "ToolTip": "C:\\Users\\RichterPatrick\\source\\repos\\PokemonTest\\PokemonTest\\Kampfsystem.cs",
+              "RelativeToolTip": "PokemonTest\\Kampfsystem.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAAG0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T07:32:19.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Teammanagenment.cs",
+              "DocumentMoniker": "C:\\Users\\RichterPatrick\\source\\repos\\PokemonTest\\PokemonTest\\Teammanagenment.cs",
+              "RelativeDocumentMoniker": "PokemonTest\\Teammanagenment.cs",
+              "ToolTip": "C:\\Users\\RichterPatrick\\source\\repos\\PokemonTest\\PokemonTest\\Teammanagenment.cs",
+              "RelativeToolTip": "PokemonTest\\Teammanagenment.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:18:33.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Route1.cs",
+              "DocumentMoniker": "C:\\Users\\RichterPatrick\\source\\repos\\PokemonTest\\PokemonTest\\Route1.cs",
+              "RelativeDocumentMoniker": "PokemonTest\\Route1.cs",
+              "ToolTip": "C:\\Users\\RichterPatrick\\source\\repos\\PokemonTest\\PokemonTest\\Route1.cs",
+              "RelativeToolTip": "PokemonTest\\Route1.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAkwJsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:10:35.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErsteStadt.cs",
+              "DocumentMoniker": "C:\\Users\\RichterPatrick\\source\\repos\\PokemonTest\\PokemonTest\\ErsteStadt.cs",
+              "RelativeDocumentMoniker": "PokemonTest\\ErsteStadt.cs",
+              "ToolTip": "C:\\Users\\RichterPatrick\\source\\repos\\PokemonTest\\PokemonTest\\ErsteStadt.cs",
+              "RelativeToolTip": "PokemonTest\\ErsteStadt.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowEoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T07:09:48.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Arena.cs",
+              "DocumentMoniker": "C:\\Users\\RichterPatrick\\source\\repos\\PokemonTest\\PokemonTest\\Arena.cs",
+              "RelativeDocumentMoniker": "PokemonTest\\Arena.cs",
+              "ToolTip": "C:\\Users\\RichterPatrick\\source\\repos\\PokemonTest\\PokemonTest\\Arena.cs",
+              "RelativeToolTip": "PokemonTest\\Arena.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAUwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T07:28:50.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Spielstand.cs",
+              "DocumentMoniker": "C:\\Users\\RichterPatrick\\source\\repos\\PokemonTest\\PokemonTest\\Spielstand.cs",
+              "RelativeDocumentMoniker": "PokemonTest\\Spielstand.cs",
+              "ToolTip": "C:\\Users\\RichterPatrick\\source\\repos\\PokemonTest\\PokemonTest\\Spielstand.cs",
+              "RelativeToolTip": "PokemonTest\\Spielstand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T07:38:07.14Z",
+              "WhenOpened": "2025-05-14T07:33:29.373Z",
               "EditorCaption": ""
             }
           ]

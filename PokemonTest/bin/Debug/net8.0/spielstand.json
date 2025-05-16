@@ -1,0 +1,65 @@
+{
+  "Name": "Paddy",
+  "Team": [
+    {
+      "Name": "Schiggy",
+      "Typ": "Wasser",
+      "Level": 7,
+      "KP": 54,
+      "MaxKP": 54,
+      "AngriffsWert": 13,
+      "VerteidigungsWert": 14,
+      "Attacken": [
+        {
+          "Name": "Tackle",
+          "Typ": "Normal",
+          "Schaden": 10
+        },
+        {
+          "Name": "Aquaknarre",
+          "Typ": "Wasser",
+          "Schaden": 12
+        }
+      ],
+      "Erfahrung": 48
+    },
+    {
+      "Name": "Hornliu",
+      "Typ": "K\u00E4fer",
+      "Level": 3,
+      "KP": 0,
+      "MaxKP": 25,
+      "AngriffsWert": 6,
+      "VerteidigungsWert": 4,
+      "Attacken": [
+        {
+          "Name": "Fadenschuss",
+          "Typ": "K\u00E4fer",
+          "Schaden": 5
+        }
+      ],
+      "Erfahrung": 0
+    },
+    {
+      "Name": "Rattfratz",
+      "Typ": "Normal",
+      "Level": 3,
+      "KP": 0,
+      "MaxKP": 26,
+      "AngriffsWert": 8,
+      "VerteidigungsWert": 6,
+      "Attacken": [
+        {
+          "Name": "Tackle",
+          "Typ": "Normal",
+          "Schaden": 10
+        }
+      ],
+      "Erfahrung": 0
+    }
+  ],
+  "Tasche": {
+    "PokeballAnzahl": 2,
+    "TrankAnzahl": 0
+  }
+}
